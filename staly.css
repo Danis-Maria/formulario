@@ -24,6 +24,7 @@ form label{
     cursor: pointer;
 }
 .enviar:hover {
-    background-color: rgb(113, 43, 226);
+    background-color: blueviolet;
     transform: scale(1.2);
 }
+
